@@ -1,0 +1,36 @@
+@media screen and (max-width: 1005px) {
+    .menu {
+        display: none;
+    }
+
+    .logo {
+        text-align: center;
+        margin: 0;
+    }
+
+    .header {
+        padding-top: 50px;
+    }
+
+    .headline {
+        flex: 100%;
+        margin: 5%;
+        text-align: center;
+    }
+
+    .headline h2 {
+        font-size: 15;
+    }
+
+    .headline p {
+        text-align: center;
+    }
+
+    .card {
+        width: 100%;
+    }
+
+    .img-headline {
+        display: none;
+    }
+}
